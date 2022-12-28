@@ -9,7 +9,6 @@
     Source:-
     - https://askubuntu.com/questions/121073/why-bash-profile-is-not-getting-sourced-when-opening-a-terminal
 
----
 - ## Copied text from somewhere but got extra trash in it when paste in terminal.
     ![Bracketed Paste Image 1](./bracketed-paste-1.png)
     ![Bracketed Paste Image 2](./bracketed-paste-2.png)
@@ -27,5 +26,3 @@
     Source:-
     - https://superuser.com/questions/1532688/pasting-required-text-into-terminal-emulator-results-in-200required-text
     - https://askubuntu.com/questions/662222/why-bracketed-paste-mode-is-enabled-sporadically-in-my-terminal-screen
-
----
