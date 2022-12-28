@@ -1,6 +1,6 @@
-## Troubleshoot
+# Troubleshoot
 
-- Custom environment variable not automatically sourced in `~/.bash_profile`.
+- ## Custom environment variable not automatically sourced in `~/.bash_profile`.
     1. Open terminal and type `cd ~ && open .bashrc`.
     2. Scroll down the text editor and put `. ~/.bash_profile` at the bottom of it.
     3. Save the file.
@@ -10,7 +10,7 @@
     - https://askubuntu.com/questions/121073/why-bash-profile-is-not-getting-sourced-when-opening-a-terminal
 
 ---
-- Copied text from somewhere but got extra trash in it when paste in terminal.
+- ## Copied text from somewhere but got extra trash in it when paste in terminal.
     ![Bracketed Paste Image 1](./bracketed-paste-1.png)
     ![Bracketed Paste Image 2](./bracketed-paste-2.png)
     1. Open terminal and type `cd ~ && open .bashrc`.
